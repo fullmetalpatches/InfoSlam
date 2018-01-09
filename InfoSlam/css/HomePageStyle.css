@@ -1,0 +1,12 @@
+.jumbotron {
+  background-image: url("/images/jumbotron-banner.jpeg");
+  text-align: right;
+}
+
+.banner-subtext {
+  text-align: right;
+}
+
+.jumbotron-plate span{
+    background-color: black;
+}
